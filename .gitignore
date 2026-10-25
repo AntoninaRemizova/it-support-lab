@@ -1,0 +1,16 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# База данных ChromaDB (локальная)
+chroma_db/
+
+# Результаты
+result.txt
+
+# Секреты
+.env
